@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Hello%2C%20I%27m%20Viora&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20focused%20on%20Cloud%20%26%20Security&descAlignY=58&descSize=18](https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:2563eb&amp;height=220&amp;section=header&amp;text=Hello%2C%20I%27m%20Viora&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Software%20Engineer%20focused%20on%20Cloud%20%26%20Security&amp;descAlignY=58&amp;descSize=18)" alt="Modern header banner" width="100%"/>
+  <h1 align="center">Hello, I'm Viora</h1>
+  <p align="center">Software Engineer focused on Cloud & Security</p>
 </p>
 
 <p align="center">
