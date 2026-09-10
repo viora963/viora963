@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Viora</h1>
+<h1 align="center">Hello, I'm Viora</h1>
 
 <h3 align="center">Software Engineer focused on Cloud & Security</h3>
 
