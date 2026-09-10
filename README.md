@@ -1,55 +1,67 @@
-<p align="center">
-  <h1 align="center">Hello, I'm Viora</h1>
-  <p align="center">Software Engineer focused on Cloud & Security</p>
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<p align="center">
-  Building software, exploring systems, and learning how to design reliable and secure applications.
-</p>
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="40" align="left"/> Hello there!
 
----
+<br/>
 
-### About Me
+# Hi, I'm Viora 👋
 
-* Software engineer focused on **systems programming, cloud computing, and cybersecurity**
-* Experienced in developing **reliable, maintainable, and secure software**
-* Proficient with **Linux, backend development, web technologies, and databases**
-* Interested in designing efficient systems and understanding their underlying architecture
-* Open to collaborating on **open-source and engineering projects**
+### Computer Engineering Student exploring Systems Programming, Cloud & Security
+
+![Profile Views](https://komarev.com/ghpvc/?username=viora963&color=00bfbf)&nbsp;
+[![GitHub](https://img.shields.io/github/followers/viora963?label=follow&style=social)](https://github.com/viora963)&nbsp;
 
 ---
 
-### Technologies
+## 👩🏻‍💻 About Me
 
-#### Languages
+I'm a **Computer Engineering student** building a strong foundation in software engineering, systems programming, and infrastructure.
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL / MySQL" width="40" height="40"/>
-</p>
+My main areas of exploration are:
 
-#### Web & Backend
+- 🖥️ **Systems Programming & Computer Systems**
+- ☁️ **Cloud Computing & Infrastructure**
+- 🔐 **Cybersecurity**
+- 🌐 **Backend Development & Databases**
+- 🐧 **Linux & Operating Systems**
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
-</p>
+I enjoy understanding what happens **under the abstractions** — from memory and processes to networks, operating systems, and backend architecture.
 
-#### Systems & Tools
+> **Build it. Understand it. Improve it.**
 
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-</p>
+---
+
+### 🛠 &nbsp;Technology Stack
+
+#### 💻 &nbsp;Languages
+
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
+
+#### 🌐 &nbsp;Backend & Databases
+
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+
+#### 🐧 &nbsp;Systems & Infrastructure
+
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![Ansible](https://img.shields.io/badge/-Ansible-05122A?style=flat&logo=ansible)&nbsp;
+
+#### 🔧 &nbsp;Tools
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visualstudiocode)&nbsp;
 
 ---
 
@@ -78,6 +90,7 @@ My goal is to develop strong engineering foundations and eventually build softwa
 
 ---
 
-<p align="center">
-  <i>Always building. Always learning.</i>
-</p>
+
+<p align="center"> <i>Building systems. Learning deeply. Improving continuously.</i> </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer"/>
