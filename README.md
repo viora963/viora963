@@ -10,11 +10,12 @@
 
 ### About Me
 
-*Software engineer focused on systems programming, cloud computing, and cybersecurity**
-*Experienced in developing reliable, maintainable, and secure software**
-*Proficient with Linux, backend development, web technologies, and databases**
-*Interested in designing efficient systems and understanding their underlying architecture**
-*Open to collaborating on open-source and engineering projects**
+* Software engineer focused on **systems programming, cloud computing, and cybersecurity**
+* Experienced in developing **reliable, maintainable, and secure software**
+* Proficient with **Linux, backend development, web technologies, and databases**
+* Interested in designing efficient systems and understanding their underlying architecture
+* Open to collaborating on **open-source and engineering projects**
+
 ---
 
 ### Technologies
