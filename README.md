@@ -80,16 +80,6 @@ Computer Networks
 
 ---
 
-### Engineering Mindset
-
-> Build it. Understand it. Improve it.
-
-I care about understanding the fundamentals behind the technologies I use rather than simply relying on abstractions.
-
-My goal is to develop strong engineering foundations and eventually build software that is **scalable, reliable, maintainable, and secure**.
-
----
-
 
 <p align="center"> <i>Building systems. Learning deeply. Improving continuously.</i> </p>
 
