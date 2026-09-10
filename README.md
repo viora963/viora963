@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **C, Linux, Python, Django, SQL, Computer Networks, and Systems Programming**
 
-- 📫 How to reach me **viorax963@gmail.com**
-
 - ⚡ Fun fact **I learn best by building things and understanding how they work under the hood.**
 
 <p align="left">
