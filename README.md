@@ -1,6 +1,6 @@
-<h1 align="center">Hello, I'm Viora</h1>
-
-<h3 align="center">Software Engineer focused on Cloud & Security</h3>
+<p align="center">
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Hello,%20I](https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,100:2563eb&amp;height=220&amp;section=header&amp;text=Hello,%20I)'m%20Viora&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20focused%20on%20Cloud%20%26%20Security&descAlignY=58&descSize=18" alt="Modern header banner" width="100%"/>
+</p>
 
 <p align="center">
   Building software, exploring systems, and learning how to design reliable and secure applications.
@@ -24,10 +24,13 @@
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL / MySQL" width="40" height="40"/>
 </p>
 
